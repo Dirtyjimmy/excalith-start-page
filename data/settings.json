@@ -1,7 +1,7 @@
 {
 	"username": "drtjm",
 	"theme": {
-		"name": "Rosé Pine Moon",
+		"name": "Everforest Dark",
 		"backgroundColor": "#232136",
 		"windowColor": "#393552",
 		"textColor": "#E0DEF4",
@@ -16,10 +16,10 @@
 		"gray": "#6E6A86"
 	},
 	"wallpaper": {
-		"url": "assets/default-wallpaper.svg",
+		"url": "assets/fog_forest_alt_2.svg",
 		"easing": "ease-in-out",
 		"fadeIn": true,
-		"blur": false
+		"blur": true
 	},
 	"terminal": {
 		"fixedHeight": true,
